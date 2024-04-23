@@ -1,0 +1,19 @@
+#brentImage{
+    width:100%;
+    height:750px ;
+}
+
+.travel_mainDiv
+{
+    border: 15px solid lightgrey;
+}
+
+.travel_mainDiv img
+{
+    width: 100%;
+}
+
+.travel_mainDiv h5, .travel_mainDiv p
+{
+    margin: 20px;
+}
